@@ -1,7 +1,6 @@
 # ⛩️ ANANKE — The Inevitable Mail System
 
-**A.N.A.N.K.E.**  
-*Aerc. Notmuch. Abook. Neomutt. Khal. Encryption.*
+*Ananke (pronounced ah-NAHN-kee) is the ancient Greek personification of inevitability, compulsion, and necessity. In mythology, she represents the inescapable force that governs fate and the natural order of the cosmos—things that must happen and cannot be avoided.*
 
 > Secure, offline-first, tag-centric email forged by necessity.
 
@@ -9,14 +8,14 @@
 
 ### 🔧 Components
 
-| Letter | Tool         | Description                                     |
-|--------|--------------|-------------------------------------------------|
-| **A**  | `aerc`        | TUI email client with tag and IMAP support      |
-| **N**  | `notmuch`     | Ultra-fast tagging and email indexing engine    |
-| **A**  | `abook`       | Terminal contact manager (or `asciimutt`)       |
-| **N**  | `neomutt`     | (Optional) Alternative mail client for testing  |
-| **K**  | `khal`, `khard` | Calendar and contact sync & management       |
-| **E**  | `encryption`  | Local maildir encryption with `gocryptfs`, `age`, etc. |
+| Tool         | Description                                     |
+|--------------|-------------------------------------------------|
+| `aerc`        | TUI email client with tag and IMAP support      |
+| `notmuch`     | Ultra-fast tagging and email indexing engine    |
+| `abook`       | Terminal contact manager (or `asciimutt`)       |
+| `neomutt`     | (Optional) Alternative mail client for testing  |
+| `khal`, `khard` | Calendar and contact sync & management       |
+| `encryption`  | Local maildir encryption with `gocryptfs`, `age`, etc. |
 
 ---
 
